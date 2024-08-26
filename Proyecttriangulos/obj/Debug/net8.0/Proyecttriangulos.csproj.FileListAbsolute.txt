@@ -1,0 +1,14 @@
+C:\Users\diego\OneDrive\Escritorio\Platzi\C#\Proyecttriangulos\Proyecttriangulos\bin\Debug\net8.0\Proyecttriangulos.exe
+C:\Users\diego\OneDrive\Escritorio\Platzi\C#\Proyecttriangulos\Proyecttriangulos\bin\Debug\net8.0\Proyecttriangulos.deps.json
+C:\Users\diego\OneDrive\Escritorio\Platzi\C#\Proyecttriangulos\Proyecttriangulos\bin\Debug\net8.0\Proyecttriangulos.runtimeconfig.json
+C:\Users\diego\OneDrive\Escritorio\Platzi\C#\Proyecttriangulos\Proyecttriangulos\bin\Debug\net8.0\Proyecttriangulos.dll
+C:\Users\diego\OneDrive\Escritorio\Platzi\C#\Proyecttriangulos\Proyecttriangulos\bin\Debug\net8.0\Proyecttriangulos.pdb
+C:\Users\diego\OneDrive\Escritorio\Platzi\C#\Proyecttriangulos\Proyecttriangulos\obj\Debug\net8.0\Proyecttriangulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Escritorio\Platzi\C#\Proyecttriangulos\Proyecttriangulos\obj\Debug\net8.0\Proyecttriangulos.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Escritorio\Platzi\C#\Proyecttriangulos\Proyecttriangulos\obj\Debug\net8.0\Proyecttriangulos.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Escritorio\Platzi\C#\Proyecttriangulos\Proyecttriangulos\obj\Debug\net8.0\Proyecttriangulos.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Escritorio\Platzi\C#\Proyecttriangulos\Proyecttriangulos\obj\Debug\net8.0\Proyecttriangulos.dll
+C:\Users\diego\OneDrive\Escritorio\Platzi\C#\Proyecttriangulos\Proyecttriangulos\obj\Debug\net8.0\refint\Proyecttriangulos.dll
+C:\Users\diego\OneDrive\Escritorio\Platzi\C#\Proyecttriangulos\Proyecttriangulos\obj\Debug\net8.0\Proyecttriangulos.pdb
+C:\Users\diego\OneDrive\Escritorio\Platzi\C#\Proyecttriangulos\Proyecttriangulos\obj\Debug\net8.0\Proyecttriangulos.genruntimeconfig.cache
+C:\Users\diego\OneDrive\Escritorio\Platzi\C#\Proyecttriangulos\Proyecttriangulos\obj\Debug\net8.0\ref\Proyecttriangulos.dll
